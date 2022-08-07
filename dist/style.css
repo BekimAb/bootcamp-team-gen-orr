@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+#navbar{
+    background-color: red;
+    font-size: 50px;
+}
+
+.card-header{
+    background-color: blue;
+}
+
+.container{
+    margin: auto;
+    justify-content: space-evenly;
+    display: flex;
+}
